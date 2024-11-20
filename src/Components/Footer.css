@@ -1,0 +1,30 @@
+.list{
+    display: flex;
+    
+}
+.list li{
+    list-style: none;
+    color: white;
+    
+    
+}
+
+.list li:nth-child(1){
+    font-weight: bold;
+    font-size: 2em;
+}
+footer P{
+    color: white;
+    margin-top: 20px;
+
+}
+footer h3{
+    color: rgb(8, 124, 233);
+}
+.logo-i{
+    color: rgb(8, 124, 233);
+    font-size: 2em;
+
+}
+
+
